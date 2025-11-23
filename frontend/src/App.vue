@@ -1,0 +1,1 @@
+<template><OpAnalyzer/></template><script setup lang='ts'>import OpAnalyzer from './components/OpAnalyzer.vue'</script>
